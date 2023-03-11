@@ -1,0 +1,14 @@
+body {
+	background: url(backtree.jpg) no-repeat;
+}
+
+
+.text {
+	font-size: 95px;
+	color: white;
+	font-family: arial;
+	padding-left: 5%;
+	padding-right: 5%; 
+	padding-top: 15%;
+	padding-bottom: 15%;
+}

@@ -1,0 +1,19 @@
+body {
+	background: url(backtree-error.jpg) no-repeat;
+}
+
+
+.error-text-normal {
+	font-size: 95px;
+	color: red;
+	font-family: arial;
+
+}
+
+.error-text-90 {
+	font-size: 95px;
+	color: red;
+	font-family: arial;
+	writing-mode: vertical-lr;
+
+}
