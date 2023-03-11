@@ -1,0 +1,93 @@
+body {
+	background: url(backtree.jpg);
+
+}
+
+header {
+	background-color: #505050;
+	border-radius: 7px;
+
+}
+
+
+
+.logo {
+	padding-left: 5px;
+	font-size: 24px;
+
+}
+
+.logoname {
+	text-decoration: none;
+
+}
+
+
+
+.menu {
+	text-decoration: none; 
+	color: yellow;
+	font-size: 20px;
+	border: 7px solid #454545;
+	border-radius: 7px;
+	background-color: #454545;
+
+}
+
+.menu:hover {
+	background: #353535;
+	color: yellow;
+	border: 7px solid #353535;
+	transition: 0.5s;
+
+}
+
+
+.otstup1 {
+	padding-left: 750px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+	background-color: #505050;
+	padding: 8px;
+	border-radius: 7px;
+}
+
+.foot1 {
+	vertical-align: top;
+	color: black;
+
+}
+
+.foot2 {
+	vertical-align: top;
+	padding-left: 25px;
+	color: black;
+}

@@ -44,7 +44,7 @@ header {
 
 
 .otstup1 {
-	padding-left: 58%;
+	padding-left: 750px;
 
 }
 
@@ -60,7 +60,6 @@ header {
 	border-radius: 7px;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	
 	
 }
 
@@ -102,7 +101,7 @@ header {
 	border-radius: 7px;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	
+
 }
 
 .pokuptext {
@@ -116,11 +115,12 @@ header {
 	border: 3px solid #404040;
 	background-color: #404040;
 	border-radius: 7px;
+	color: yellow;
 }
 
 .podrobnee:hover {
 	background: #303030;
-	color: white;
+	color: yellow;
 	border: 3px solid #303030;
 	transition: 0.5s;
 
