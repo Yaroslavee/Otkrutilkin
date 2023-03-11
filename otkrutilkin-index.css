@@ -58,6 +58,8 @@ header {
 	padding-bottom: 8px;
 	vertical-align: top;
 	border-radius: 7px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 	
 	
 }
@@ -76,7 +78,8 @@ header {
 	padding-bottom: 13px;
 	vertical-align: top;
 	border-radius: 7px;
-	
+	margin-top: 50px;
+	margin-bottom: 50px;
 	
 
 }
@@ -97,6 +100,8 @@ header {
 	padding-bottom: 13px;
 	vertical-align: top;
 	border-radius: 7px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 	
 }
 
