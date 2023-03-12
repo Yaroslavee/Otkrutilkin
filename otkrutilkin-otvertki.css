@@ -48,12 +48,89 @@ header {
 
 }
 
+.block1 {
+	background-color: #505050;
+	margin-left: 50px;
+	padding-left: 8px;
+	padding-right: 8px;
+	width: 250px;
+	height: 400px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	vertical-align: top;
+	border-radius: 7px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 
 
+}
+
+.butpodrobnee {
+	border: 5px solid #404040;
+	background-color: #404040;
+	border-radius: 7px;
+	
+	
+}
 
 
+.butpodrobnee:hover {
+	background: #303030;
+	color: yellow;
+	border: 5px solid #303030;
+	transition: 0.5s;
+
+}
 
 
+.block2 {
+	background-color: #505050;
+	margin-left: 50px;
+	padding-left: 8px;
+	padding-right: 8px;
+	width: 250px;
+	height: 400px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	vertical-align: top;
+	border-radius: 7px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+
+.block3 {
+	background-color: #505050;
+	margin-left: 50px;
+	padding-left: 8px;
+	padding-right: 8px;
+	width: 250px;
+	height: 400px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	vertical-align: top;
+	border-radius: 7px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+
+.block4 {
+	background-color: #505050;
+	margin-left: 50px;
+	padding-left: 8px;
+	padding-right: 8px;
+	width: 250px;
+	height: 400px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	vertical-align: top;
+	border-radius: 7px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+
+}
 
 
 
