@@ -7,8 +7,10 @@ body {
 	font-size: 95px;
 	color: white;
 	font-family: arial;
-	padding-left: 5%;
-	padding-right: 5%; 
-	padding-top: 15%;
-	padding-bottom: 15%;
+	padding-left: 50px;
+	padding-right: 50px; 
+	padding-top: 100px;
+	padding-bottom: 50px;
+	margin: auto;
+
 }
