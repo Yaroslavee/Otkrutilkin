@@ -9,12 +9,12 @@
 			body {
 				text-align: center;
 				vertical-align: middle;
-				font-size: 20px;
+				font-size: 25px;
 				font-family: Verdana;
 				font-weight: bold;
 				background-color: black;
 			}
-			button {
+			.classic-button {
 				padding: 35px;
 				background-color: #101010;
 				margin-left: 2px;
@@ -27,8 +27,21 @@
 				border-radius: 10px;
 				touch-action: manipulation;
 			}
-			button:active {
+			.classic-button:active {
 				background-color: #CC0300;
+			}
+			.invisible-button {
+				padding: 35px;
+				background-color: #B1BBC8;
+				margin-left: 2px;
+				margin-right: 2px;
+				margin-top: 5px;
+				margin-bottom: 5px;
+				border-style: solid;
+				border-width: 3px;
+				border-color: #B1BBC8;
+				border-radius: 10px;
+				touch-action: manipulation;
 			}
 			.text-format {
 				color: white;
@@ -40,13 +53,13 @@
 
 	<body>
 		<h3 class="text-format">Пульт управления esp32-машинкой</h3>
-		<button></button>
+		<button class="classic-button"></button>
 		<br>
-		<button></button>
-		<button background-color="black"></button>
-		<button></button>
+		<button class="classic-button"></button>
+		<button class="invisible-button"></button>
+		<button class="classic-button"></button>
 		<br>
-		<button></button>
+		<button class="classic-button"></button>
 	</body>
 
 
