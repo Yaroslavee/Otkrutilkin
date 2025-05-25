@@ -60,6 +60,12 @@
 		<button class="classic-button"></button>
 		<br>
 		<button class="classic-button"></button>
+
+		<script>
+		    function sendCommand(cmd) {
+		      fetch("/" + cmd).catch(e => console.log(e));
+		    }
+  		</script>
 	</body>
 
 
