@@ -31,8 +31,7 @@
 				border-color: #B1BBC8;
 				border-radius: 10px;
 				touch-action: manipulation;
-			}
-			.classic-button:active {
+			} .classic-button:active {
 				background-color: #595E64;
 			}
 			.center-button {
@@ -52,21 +51,37 @@
 				border-color: #B1BBC8;
 				border-radius: 10px;
 				touch-action: manipulation;
-			}
-			.center-button:active {
+			} .center-button:active {
 				background-color: #595E64;
 				border-color: #595E64;
 			}
 			.text-format {
 				color: white;
-				margin-top: 125px;
-				margin-bottom: 125px;
+				margin-top: 100px;
+				margin-bottom: 35px;
+			}
+			input {
+				margin-top: 25px;
+				width: 200px;
+			}
+			p {
+				margin: 5px;
+				color: white;
+				font-size: 15px;
+				margin-bottom: 65px;
 			}
 		</style>
 	</head>
 
 	<body>
 		<h3 class="text-format">Пульт управления esp32-машинкой</h3>
+
+		<input type="range" min="1" max="100" value="80">
+		<br>
+		<p>
+			Скорость: 
+		</p>
+		<br>
 		<button class="classic-button">W</button>
 		<br>
 		<button class="classic-button">A</button>
